@@ -9,5 +9,8 @@ pybids_0.15.2_db/
 derivatives/contarg/hierarchical/*/sub-*/func/*.pkl.gz
 
 derivatives/contarg/seedmap/test/
+derivatives/contarg/seedmap/testing1sub/sub-*/func/sub-*_task-rest_run-*cluster*
+derivatives/contarg/seedmap/testing1subMNI/
 
+derivatives/contarg/cluster/test/
 .pytest_cache/
